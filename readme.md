@@ -19,7 +19,11 @@ download the whole package and open in **Unity** on your computer
 
 
 
-## Usage example
+## Screenshots
+![](https://github.com/RRRen/Maze/blob/master/Screenshots/ss1.png)
+![](https://github.com/RRRen/Maze/blob/master/Screenshots/ss2.png)
+![](https://github.com/RRRen/Maze/blob/master/Screenshots/ss3.png)
+
 
 
 ## Release history
